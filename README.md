@@ -1,4 +1,6 @@
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,styledcomponents,supabase,figma)](https://skillicons.dev)
+
 <!--
 **HIITMEMARIO/HIITMEMARIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HIITEMEMARIOGitHub&fontSize=90)
+
